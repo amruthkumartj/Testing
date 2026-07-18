@@ -1,0 +1,2 @@
+Hello from Benevolate!
+This file was created to demonstrate repository connectivity.
